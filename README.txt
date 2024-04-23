@@ -1,7 +1,5 @@
 # Facedetector
 
-Sure! Here's a README file template for your face recognition application built with Tkinter and DeepFace:
-
 Face Recognition Application
 This application uses Python, Tkinter, PIL, face_recognition, and DeepFace libraries to detect faces in images, draw rectangles around detected faces, and perform deep learning analysis to estimate attributes such as age, emotion, gender, and race.
 
@@ -15,8 +13,9 @@ Installation
 Before running the application, you must install the required Python libraries. You can install these libraries using pip:
 
 bash
-Copy code
+
 pip install tkinter PIL face_recognition numpy deepface
+
 Usage
 To use the application, follow these steps:
 
